@@ -8,6 +8,6 @@ STEPS
 2. Extractthe data history in 'dat' format
 3. Use the 'dat' file in FE model in 'fatigue Tool'
 
-This is the link to FE Model: https://1drv.ms/u/s!At-YvWVYM3wbhMU0Ps6lng_yy8ilZQ?e=ren9F4
+This is the link to FE Model: https://1drv.ms/u/s!At-YvWVYM3wbhM94G0K2QxgKvM4bxQ?e=dOk5qb
 
 Thanks!
